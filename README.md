@@ -17,4 +17,4 @@ Además de los archivos mencionados, se requiere tener un archivo CSV que conten
 
 **Nota:** El archivo `knn_model.joblib` se encuentra en el directorio "assets" del repositorio y no está disponible para su visualización directa en GitHub. Sin embargo, puedes descargarlo y colocarlo en el mismo directorio que los demás archivos para su correcto funcionamiento.
 
-Si tienes alguna pregunta o necesitas más información, no dudes en contactarme. ¡Buena suerte con tu análisis de estrellas binarias!
+Si tienes alguna pregunta o necesitas más información, no dudes en contactarme a luciano.godoi.caceres@gmail.com. ¡Buena suerte con tu análisis de estrellas binarias!
